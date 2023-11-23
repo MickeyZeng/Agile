@@ -1,0 +1,22 @@
+.toolbarNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.setting {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.speedIcon, .settingsIcon {
+    display: flex;
+    justify-Content: center;
+    align-items: center;
+}
+
+.eventBoard {
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
